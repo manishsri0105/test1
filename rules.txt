@@ -11,5 +11,3 @@
 
 now make some changes and push it back
 
-got it jan?ja good now if i add a file from my lapy then see how to pull it wait
-jan now we need this file in yur repo
