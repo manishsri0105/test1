@@ -1,0 +1,2 @@
+1) git clone url to import a repo into system
+2) now add a file on server 
