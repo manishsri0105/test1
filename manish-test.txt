@@ -1,0 +1,13 @@
+1) git clone url to import a repo into system
+2) now add a file on server 
+ git add rules.txt
+3)after add a file must commit using a messge
+
+4)and finally git push to push a file on server
+5)user name password was GIT user name and passwword
+6)now check the status on server 
+
+7)git pull comand is use to take update from server
+
+now make some changes and push it back
+
